@@ -1,0 +1,35 @@
+[
+		 {
+  
+    		"categoryid": 1,
+    		"name": "Learn_Java",
+    		"icon_class": "ts-java programming",
+  		  	"description": "Java is programming language"
+   		 },
+   		 {
+  
+    		"categoryid": 1,
+    		"name": "Learn_API",
+    		"icon_class": "ts-java programming",
+  		  	"description": "Java is programming language"
+   		 },
+   		 {
+  
+    		"categoryid": 1,
+    		"name": "Using httpclient",
+    		"icon_class": "ts-java programming",
+  		  	"description": "Java is programming language"
+   		 },
+   		 {
+  
+    		"categoryid": 1,
+    		"name": "Using postman tool",
+    		"icon_class": "ts-java programming",
+  		  	"description": "Java is programming language"
+   		 }
+  
+  ]
+  
+
+   		 
+
